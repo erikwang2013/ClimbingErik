@@ -1,0 +1,10 @@
+1576027450878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezQMxMG"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1576027453493	Marionette	INFO	Listening on port 40727
+1576027453586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.xbiquge.la/xiaoshuodaquan/, line 15: ReferenceError: login is not defined
+JavaScript error: http://www.xbiquge.la/xiaoshuodaquan/, line 22: ReferenceError: bqg_panel is not defined
+JavaScript error: http://www.xbiquge.la/xiaoshuodaquan/, line 39: ReferenceError: top_bar is not defined
+JavaScript error: http://www.xbiquge.la/xiaoshuodaquan/, line 6087: ReferenceError: bottom is not defined
+JavaScript error: http://www.xbiquge.la/xiaoshuodaquan/, line 6093: ReferenceError: footer is not defined
+JavaScript error: http://www.xbiquge.la/images/bqg.js?cHVzaA=1576027186, line 332: TypeError: getCookie(...) is null

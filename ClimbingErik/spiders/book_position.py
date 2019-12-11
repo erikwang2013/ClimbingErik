@@ -13,10 +13,9 @@ class BookPositionSpider(scrapy.Spider):
 
     def parse(self, response):
         for clim_primary in response.xpath('//div[@class="novellist"]'):
-            for getData in clim_primary.xpath('//ul'):
-                for getliData in getData.xpath('//li'):
+            for getData in clim_primary.xpath('//div[@class="novellist"]/ul'):
+                for getliData in getData.xpath('//div[@class="novellist"]/ul/li'):
                     item=ClimbingerikItem()
                     item['title']=getliData.xpath('./a/text()').extract_first()
                     item['title_url']=getliData.xpath('./a/@href').extract_first()
                     yield item
-        pass

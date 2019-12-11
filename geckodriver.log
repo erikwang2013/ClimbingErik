@@ -8,3 +8,60 @@ JavaScript error: http://www.xbiquge.la/xiaoshuodaquan/, line 39: ReferenceError
 JavaScript error: http://www.xbiquge.la/xiaoshuodaquan/, line 6087: ReferenceError: bottom is not defined
 JavaScript error: http://www.xbiquge.la/xiaoshuodaquan/, line 6093: ReferenceError: footer is not defined
 JavaScript error: http://www.xbiquge.la/images/bqg.js?cHVzaA=1576027186, line 332: TypeError: getCookie(...) is null
+1576028421991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletDtH51"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1576028423042	Marionette	INFO	Listening on port 33677
+1576028423094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://znsv.baidu.com/customer_search/api/js?sid=15629547599739040164&plate_url=http%3A%2F%2Fwww.xbiquge.la%2Fxiaoshuodaquan%2F&t=437786, line 1: SyntaxError: expected expression, got '<'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 23113, Gecko_IOThread] WARNING: pipe error (111): 连接被对方重设: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1576028677205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled7A1h1"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1576028678322	Marionette	INFO	Listening on port 40673
+1576028678416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576028754087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH26TOn"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1576028755176	Marionette	INFO	Listening on port 37729
+1576028755196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://znsv.baidu.com/customer_search/api/js?sid=15629547599739040164&plate_url=http%3A%2F%2Fwww.xbiquge.la%2F10%2F10489%2F&t=437786, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://znsv.baidu.com/customer_search/api/js?sid=15629547599739040164&plate_url=http%3A%2F%2Fwww.xbiquge.la%2Fwangyouxiaoshuo%2F&t=437786, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://znsv.baidu.com/customer_search/api/js?sid=15629547599739040164&plate_url=http%3A%2F%2Fwww.xbiquge.la%2Fpaihangbang%2F&t=437786, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://znsv.baidu.com/customer_search/api/js?sid=15629547599739040164&plate_url=http%3A%2F%2Fwww.xbiquge.la%2Fxuanhuanxiaoshuo%2F&t=437786, line 1: SyntaxError: expected expression, got '<'
+[Child 23913, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1576029024133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGdTUrK"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1576029025224	Marionette	INFO	Listening on port 39851
+1576029025238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576029299010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqXDq23"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1576029300121	Marionette	INFO	Listening on port 45459
+1576029300215	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 24464, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 24464, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-cwOTsv/firefox-60.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1576029404287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWJ6qGr"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1576029405343	Marionette	INFO	Listening on port 34481
+1576029405394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576029529279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexaWswp"
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1576029530321	Marionette	INFO	Listening on port 43231
+1576029530390	Marionette	WARN	TLS certificate errors will be ignored for this session
